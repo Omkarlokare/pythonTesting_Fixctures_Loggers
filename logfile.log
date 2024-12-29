@@ -1,0 +1,2 @@
+2024-12-29 20:43:56,454 :INFO : pytestsDemo.BaseClass : Omkar
+2024-12-29 20:43:56,454 :CRITICAL : pytestsDemo.test_logging : Critical issue happened
